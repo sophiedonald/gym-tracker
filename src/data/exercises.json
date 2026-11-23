@@ -1,0 +1,12 @@
+[
+  { "id": "db-bench-press", "name": "Dumbbell Bench Press", "muscleGroup": "Chest", "equipment": "Dumbbell" },
+  { "id": "cable-bicep-21s", "name": "Cable Bicep 21s", "muscleGroup": "Arms", "equipment": "Cable" },
+  { "id": "cable-tricep-pushdowns", "name": "Cable Tricep Pushdowns", "muscleGroup": "Arms", "equipment": "Cable" },
+  { "id": "cable-lateral-raises", "name": "Cable Lateral Raises", "muscleGroup": "Shoulders", "equipment": "Cable" },
+  { "id": "low-row", "name": "Low Row", "muscleGroup": "Back", "equipment": "Cable" },
+  { "id": "squat", "name": "Squat", "muscleGroup": "Legs", "equipment": "Barbell" },
+  { "id": "box-squat", "name": "Box Squat", "muscleGroup": "Legs", "equipment": "Barbell" },
+  { "id": "bb-rdl", "name": "Barbell RDL", "muscleGroup": "Legs", "equipment": "Barbell" },
+  { "id": "db-reverse-lunges", "name": "Dumbbell Reverse Lunges", "muscleGroup": "Legs", "equipment": "Dumbbell" },
+  { "id": "calf-raises", "name": "Calf Raises", "muscleGroup": "Legs", "equipment": "Machine" }
+]
